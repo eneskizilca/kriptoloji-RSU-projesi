@@ -13,7 +13,7 @@ n
 ​	
  +c)(modm) ardından Bitwise XOR ve Shift işlemleri.
 
- 2. Sözde Kod (Pseudo-Code):
+# 2. Sözde Kod (Pseudo-Code):
 
 BAŞLA
   GİRDİ: Seed (Tohum) Değeri
