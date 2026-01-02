@@ -37,3 +37,8 @@ BİTİR
 
 <img width="329" height="859" alt="Ekran Resmi 2026-01-02 15 12 29" src="https://github.com/user-attachments/assets/b5b8753a-1ede-453f-8668-51a5b6c8c6f3" />
 
+# 4. Kod Çıktısı
+
+<img width="633" height="256" alt="Ekran Resmi 2026-01-02 15 20 40" src="https://github.com/user-attachments/assets/65df27bf-20ff-4d82-9d7e-ef7458912ed7" />
+
+
